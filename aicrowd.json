@@ -1,0 +1,8 @@
+{
+  "challenge_id": "learn-to-race-autonomous-racing-virtual-challenge",
+  "authors": [
+    "aicrowd-bot"
+  ],
+  "description": "Open-Unmix Separation model",
+  "gpu": true
+}
