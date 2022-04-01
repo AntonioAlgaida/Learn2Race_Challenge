@@ -3,7 +3,9 @@
 # [Learn to Race Challenge](https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge) | Starter Kit 
 [![Discord](https://img.shields.io/discord/565639094860775436.svg)](https://discord.gg/fNRrSvZkry)
 
-This repository is the Learn to Race Challenge **Submission template and Starter kit**! Clone the repository to compete now!
+![SAC_Agent](https://github.com/AntonioAlgaida/Learn2Race_Challenge/blob/09f010b9c3ddcbe853d310308dbd3e46fcaffec9/thruxton_1000_.gif)
+
+This repository is the Learn to Race Challenge !
 
 **This repository contains**:
 *  **Documentation** on how to submit your models to the leaderboard
